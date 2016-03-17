@@ -10,7 +10,7 @@
     },
     {
       "name":"date",
-      "type":"int",
+      "type":"string",
       "stored":true,
       "indexed":true,
       "required":false,
