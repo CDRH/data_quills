@@ -1,5 +1,5 @@
 default:
-  es_type: quills
+  collection: quills
   solr_core: quills
-  tei_solr_xsl: collections/quills/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: scripts/solr_transform_tei.xsl
 
